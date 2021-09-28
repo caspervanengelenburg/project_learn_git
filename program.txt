@@ -1,3 +1,7 @@
  # comment to explain my program - test
 a = 1
 b = 2.6
+
+
+def greeting():
+    print("Hello")
